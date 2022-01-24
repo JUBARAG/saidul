@@ -1,0 +1,54 @@
+/*----------------------
+ font style  
+ -------------------*/
+ @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;500&family=Poppins:wght@500&family=Roboto+Slab:wght@300&family=Roboto:wght@500&display=swap');
+ 
+ /*------------------------
+  body  
+  ----------------------*/
+  body{
+    font-family: 'Roboto', sans-serif;
+  }
+  .nathing{
+    color: salmon;
+    background-color: slateblue;
+    
+  }
+  .Questions text{
+    color: wheat;
+  }
+  .Every{
+    color: slateblue;
+  }
+  .package{
+    color: rgb(4, 0, 255);
+  }
+  .notification {
+    background-color:;
+    color: white;
+    text-decoration: none;
+    padding: 15px 26px;
+    position: relative;
+    display: inline-block;
+    border-radius: 2px;
+  }
+  
+  .notification:hover {
+    background:;
+  }
+  
+  .notification .badge {
+    position: absolute;
+    top: -25px;
+    right: -165px;
+    padding: 5px 10px;
+    border-radius: 50%;
+    background: rgb(103, 139, 46);
+    color: white;
+  }
+  .asked{
+    color: chartreuse;
+  }
+  .free{
+    color: rgb(238, 130, 130);
+  }
